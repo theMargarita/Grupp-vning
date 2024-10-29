@@ -3,5 +3,5 @@
 - [ ] Player
 - [ ] GameLibrary
 - [ ] Level
-- [ ] Processor
-- [ ] GraphicCard
+- [x] Processor
+- [x] GraphicCard
